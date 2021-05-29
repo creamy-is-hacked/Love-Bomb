@@ -9,7 +9,6 @@ A script for using socks4/5 proxies to attack http servers.
 Coded by Creamy
  Info:
 - [x] Using Python3
-- [x] Http Get/Head/Post/Slow Flood
 - [x] Randomized Http Header/Data
 - [x] Socks4/5 Proxies Downloader
 - [x] Socks4/5 Proxies Checker
