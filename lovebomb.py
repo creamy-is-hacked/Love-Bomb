@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 #Coded by Creamy
 #########################################
-#         Just a little change          #
-#                           -- Creamy #
+#          Love is Important <3         #
+#             by   Creamy               #
 #########################################
 import requests
 import socket
